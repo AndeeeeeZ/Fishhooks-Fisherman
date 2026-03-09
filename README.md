@@ -5,7 +5,7 @@ Why are fishhooks always the ones that are in the water catching the fish? It's 
 
 Play as the fisherman to catch as many fish as possible!
 
-Play now in browser on itch.io!
+Play now in browser on itch.io!\
 https://andeeeeez.itch.io/fishhooks-fisherman
 
 Final Project for Intro to Game Programming
