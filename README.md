@@ -1,4 +1,4 @@
-# FinalProjectPlatformer
+# Fishhook's Fisherman
 A 2D platformer game made in Unity
 
 Why are fishhooks always the ones that are in the water catching the fish? It's revenge time for the fishhooks!
